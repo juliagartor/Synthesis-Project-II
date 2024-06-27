@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.png" alt="logo" width="240"  height="auto" />
+  <img src="logo.jpg" alt="logo" width="240"  height="auto" />
   <br/>
 </div>
 <p align="center"><i>Synthesis Project II: Document Digitalization</i></p>
