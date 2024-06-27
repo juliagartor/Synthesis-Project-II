@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="lmslogo.png" alt="logo" width="240"  height="auto" />
+  <img src="logo.png" alt="logo" width="240"  height="auto" />
   <br/>
 </div>
 <p align="center"><i>Synthesis Project II: Document Digitalization</i></p>
@@ -16,9 +16,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Pocket Doctor <a name="about-project"></a>
-
-Welcome to the Pocket Doctor project! This tool is designed to be integrated into the La Meva Salut app, providing virtual doctor services accessible to every person in Catalunya.............
+#  Document Digitalization <a name="about-project"></a>
+This GitHub repository contains the final delivery for the Synthesis Project II course, completed in the third year of the AI degree at UAB
 
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
