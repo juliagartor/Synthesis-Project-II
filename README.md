@@ -27,13 +27,11 @@ The final project pipeline involves converting each document page into a PNG ima
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
 
-- 📁 **initial_ideas**:  Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
-
-- 📁 **android_studio_code**: This folder contains a TXT file with the necessary URLs to obtain the Kotlin code and the application APK.
+- 📁 **Experiments**: Contains all the code and documentation for the experiments conducted during the project.
   
-- 📁 **vscode_python_scripts**: Contains Python scripts used for developing models and functionalities for the virtual doctor tool. These scripts are integrated into the application.
+- 📁 **Final Code**: Houses the code for the final implementation of the project.
   
-- 📄 **pocket_doctor.pdf**: This is the final paper of the project, providing detailed information about the development, implementation, and functionality of the virtual doctor tool within La Meva Salut.
+- 📄 **Final Report.pdf**: This is the final paper of the project, providing detailed information about the development, implementation, and functionality of the solution.
 
 <!-- AUTHORS -->
 
@@ -43,42 +41,22 @@ The final project pipeline involves converting each document page into a PNG ima
 
   - GitHub: [GitHub Profile](https://github.com/juliagartor)
   - LinkedIn: [LinkedIn](www.linkedin.com/in/julia-garcia-torné)
-  - Role: Android Developer
-  - Contributions: Developed the app interface using Android Studio, integrated Python emulator and DL models.
-
+ 
 👤 **Àlex Sánchez**www.linkedin.com/in/àlex-sánchez-zurita-91944b249
 
   - GitHub: [GitHub Profile](https://github.com/AlexSanchezZurita)
   - LinkedIn:[LinkedIn](www.linkedin.com/in/àlex-sánchez-zurita-91944b249)
-  - Role: Chief Boss Maximum Perfect mr.Engineer
-  - Contributions: Gathered the development of the app through socio economical investment.
-
+    
 👤 **Alex Roldan**
 
   - GitHub: [GitHub Profile](https://github.com/alrocb)
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-roldan-55488a215/)
-  - Role: Model Developer
-  - Contributions: Gathered and finetuned the models contained inside the app for preparation and further implementation.
-
-👤 **Nerea Qing Muñoz**
+  -
+👤 **pepepepepepe posat aqui I canvia links**
 
   - GitHub: [GitHub Profile](https://github.com/nereaqing)
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nerea-qing-mu%C3%B1oz-martin-348338291/)
-  - Role: Prompt Engineering
-  - Contributions: Preparation of prompts for GPT model.
-
-👤 **Guillem Samper Argelagués**
-
-  - GitHub: [GitHub Profile](https://github.com/gSamper)
-  - LinkedIn: [LinkedIn](www.linkedin.com/in/guillem-samper-argelagués-2313b9280)
-  - Role: Chief Boss Maximum Perfect mr.Engineer
-  - Contributions:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-Note that this is part of a class project for the course "Social Innovation" from the third year of the AI degree at Universitat Autònoma de Barcelona.
-
 
