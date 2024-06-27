@@ -19,6 +19,11 @@
 ## Challenge Description
 The challenge proposed by IDISK was to automate the translation of official Mexican documents using AI. The current manual process is labor-intensive, so our goal was to automate key tasks to optimize the service for translators and clients. Key requirements included recognizing diverse document types, creating editable text versions, identifying non-textual elements, and ensuring high reliability.
 
+## Final Implementation
+The final project pipeline involves converting each document page into a PNG image. We used a model called docTR for text extraction and developed a custom algorithm for figure detection and classification. Interaction between the algorithm and the user is facilitated through a Gradio web app. Users can upload a document, supervise the results, and download the finalized version.
+
+<img src="logo.jpg" alt="logo" width="240"  height="auto" />
+
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
 
