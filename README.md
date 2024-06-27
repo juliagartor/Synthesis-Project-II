@@ -33,8 +33,9 @@ The final project pipeline involves converting each document page into a PNG ima
   
 - 📄 **Final Report.pdf**: This is the final paper of the project, providing detailed information about the development, implementation, and functionality of the solution.
 
-<!-- AUTHORS -->
 
+
+<!-- AUTHORS -->
 # 👥 Authors <a name="authors"></a>
 
 👤 **Júlia Garcia**
@@ -51,7 +52,7 @@ The final project pipeline involves converting each document page into a PNG ima
 
   - GitHub: [GitHub Profile](https://github.com/alrocb)
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-roldan-55488a215/)
-  -
+  
 👤 **pepepepepepe posat aqui I canvia links**
 
   - GitHub: [GitHub Profile](https://github.com/nereaqing)
