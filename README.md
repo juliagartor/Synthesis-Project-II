@@ -15,9 +15,9 @@
 </div>
 
 <!-- PROJECT DESCRIPTION -->
-
 #  Document Digitalization <a name="about-project"></a>
-This GitHub repository contains the final delivery for the Synthesis Project II course, completed in the third year of the AI degree at UAB
+## Challenge Description
+The challenge proposed by IDISK was to automate the translation of official Mexican documents using AI. The current manual process is labor-intensive, so our goal was to automate key tasks to optimize the service for translators and clients. Key requirements included recognizing diverse document types, creating editable text versions, identifying non-textual elements, and ensuring high reliability.
 
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
