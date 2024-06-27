@@ -4,7 +4,7 @@
   <img src="logo.jpg" alt="logo" width="240"  height="auto" />
   <br/>
 </div>
-<p align="center"><i>Synthesis Project II: Document Digitalization</i></p>
+<p align="center"><i>This GitHub repository contains the final delivery for the Synthesis Project II course, completed in the third year of the AI degree at UAB.</i></p>
 <div align="center">
   <a href="https://github.com/juliagartor/Social-Innovation/stargazers"><img src="https://img.shields.io/github/stars/juliagartor/Social-Innovation" alt="Stars Badge"/></a>
 <a href="https://github.com/juliagartor/Social-Innovation/network/members"><img src="https://img.shields.io/github/forks/juliagartor/Social-Innovation" alt="Forks Badge"/></a>
