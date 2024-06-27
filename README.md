@@ -43,7 +43,7 @@ The final project pipeline involves converting each document page into a PNG ima
   - GitHub: [GitHub Profile](https://github.com/juliagartor)
   - LinkedIn: [LinkedIn](www.linkedin.com/in/julia-garcia-torné)
  
-👤 **Àlex Sánchez**www.linkedin.com/in/àlex-sánchez-zurita-91944b249
+👤 **Àlex Sánchez**
 
   - GitHub: [GitHub Profile](https://github.com/AlexSanchezZurita)
   - LinkedIn:[LinkedIn](www.linkedin.com/in/àlex-sánchez-zurita-91944b249)
